@@ -72,3 +72,52 @@ requires reforms to improve transparency and predictability.
 DECLARATION
 This project is prepared for academic purposes only. All sources are
 properly acknowledged.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BASIC STATISTICS ASSIGNMENT
+INFRASTRUCTURE DEVELOPMENT IN CENTRAL INDIA
+
+AUTHOR
+Name            : Mayukh Paul
+Program         : B.Sc. Economics (Hons.)
+Semester        : 4th Semester (2nd Year)
+Department      : Economics
+Enrollment ID   : 2211212001006
+Registration No : 220010026832
+
+PROJECT OVERVIEW
+This assignment analyzes state-wise road infrastructure development in
+Central India using data on National Highways (NH), State Highways (SH),
+and total road length between 2016 and 2019.
+
+The study focuses on Madhya Pradesh, Chhattisgarh, Jharkhand, and
+West Bengal to understand infrastructural disparities and policy needs.
+
+OBJECTIVE
+- To examine state-wise road infrastructure development
+- To identify trends and disparities across states
+- To support policy formulation for balanced regional development
+
+DATA USED
+- State-wise Length of National Highways (2016–2019)
+- State-wise Length of State Highways (2016–2019)
+- State-wise Total Road Length (2016–2019)
+
+METHODOLOGY
+- Secondary data collection from government and published sources
+- Descriptive statistical analysis
+- Trend comparison using tables and graphs
+
+KEY FINDINGS
+- Madhya Pradesh shows the highest growth in road infrastructure
+- Jharkhand and Chhattisgarh show steady improvement
+- West Bengal shows fluctuations in highway expansion
+
+POLICY CONTEXT
+The study supports infrastructure initiatives such as Bharatmala
+Pariyojana, PMGSY, PPP models, and Smart City Mission.
+
+ACADEMIC USE
+This project is prepared strictly for academic purposes.
+All sources are duly acknowledged.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
