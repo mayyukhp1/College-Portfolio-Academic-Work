@@ -123,3 +123,24 @@ This project is prepared strictly for academic purposes.
 All sources are duly acknowledged.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UNEQUAL PAY, UNEQUAL POWER
+Gender and Workplace Disparities in India
+
+Author : Mayukh Paul
+Course : B.Sc. Economics (Hons.), 6th Semester
+University : Sister Nivedita University, Kolkata
+
+Overview
+This study examines gender-based wage inequality and labour force
+participation in India using NFHS-5 data.
+
+Method
+Linear and Logistic Regression analysis using STATA.
+
+Key Focus
+Gender wage gap, education, age, residence, and state-level disparities.
+
+Academic Use Only
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
