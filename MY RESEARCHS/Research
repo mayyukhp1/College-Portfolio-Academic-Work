@@ -1,1 +1,57 @@
+UNEQUAL PAY, UNEQUAL POWER
+Gender and Workplace Disparities in India
+
+AUTHOR
+Name            : Mayukh Paul
+Program         : B.Sc. Economics (Hons.)
+Semester / Year : 6th Semester / 3rd Year
+Institution     : Sister Nivedita University, Kolkata
+Registration No : 220010026832
+Enrollment No   : 2211212001006
+
+PROJECT OVERVIEW
+This research examines gender-based wage inequality and workplace
+disparities in India. It focuses on labour force participation and
+structural barriers faced by women despite equal pay legislation.
+
+The study uses NFHS-5 data to analyze how age, education, residence,
+and state-level factors influence labour force participation.
+
+DATA SOURCE
+- National Family Health Survey (NFHS-5), 2019–21
+- Government of India (IIPS & ICF)
+
+METHODOLOGY
+- Quantitative research approach
+- Linear Regression (OLS)
+- Logistic Regression
+- Statistical analysis using STATA
+- Sample size: 57,693 observations
+
+KEY VARIABLES
+Dependent Variable:
+- Labour Force Participation (v714)
+
+Independent Variables:
+- Age (mv012)
+- Education Level (mv133)
+- Type of Residence (v025)
+- State of Residence (v101)
+
+KEY FINDINGS
+- Age positively affects labour force participation
+- Higher education shows lower participation due to delayed entry
+- Urban residents have better employment opportunities
+- Significant state-wise variation exists
+- Gender gaps persist despite education and urbanisation
+
+CONCLUSION
+Gender wage inequality in India is driven by socio-cultural norms,
+institutional barriers, and uneven access to opportunities.
+Inclusive labour policies, flexible work arrangements, and
+state-specific strategies are essential for gender equity.
+
+ACADEMIC NOTE
+This project is submitted for academic purposes only.
+All data sources and references are duly acknowledged.
 
